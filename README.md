@@ -1,11 +1,14 @@
 # 🎓 SPPU Second Year (SE) Computer Engineering - Semester III Study Repository
 
-<!-- [![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name?style=for-the-badge&logo=github)](https://github.com/AtharvBorkar/SEM-III.git) -->
+[![GitHub repo size](https://img.shields.io/github/repo-size/AtharvBorkar/SEM-III?style=for-the-badge&logo=github)](https://github.com/)
 [![SPPU 2024 Pattern](https://img.shields.io/badge/SPPU-2024%20Pattern-blue?style=for-the-badge)](http://unipune.ac.in/)
 [![Engineering Resources](https://img.shields.io/badge/Semester-III-orange?style=for-the-badge)](#)
+[![Format Support](https://img.shields.io/badge/Formats-PDF%20%7C%20DOCX-green?style=for-the-badge)](#-wordformat-directory-editable-versions)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#contributing)
 
-A structured, comprehensive collection of academic resources, lecture notes, question banks, viva preparation guides, assignments, and previous year question papers (PYQs) for **Semester III (Second Year - S.E.) Computer Engineering (SPPU - Savitribai Phule Pune University)**.
+A structured, comprehensive collection of academic resources, lecture notes, question banks, viva preparation guides, assignments, and previous year question papers (PYQs) for **Semester III (Second Year - S.E.) Computer Engineering (SPPU - Savitribai Phule Pune University - 2024 Pattern)**.
+
+> **💡 Available in Both Formats**: All documents are provided in **PDF format** for easy viewing/reading and fully converted into editable **Microsoft Word (`.docx`) format** inside the [`WordFormat/`](#wordformat-directory-editable-versions) directory.
 
 ---
 
@@ -13,6 +16,7 @@ A structured, comprehensive collection of academic resources, lecture notes, que
 
 - [📚 Subjects Covered](#-subjects-covered)
 - [📂 Repository Directory Structure](#-repository-directory-structure)
+- [📝 WordFormat Directory (Editable Versions)](#-wordformat-directory-editable-versions)
 - [📖 Detailed Subject Breakdown](#-detailed-subject-breakdown)
   - [1. Data Structures (DS)](#1-data-structures-ds)
   - [2. Operating Systems (OS)](#2-operating-systems-os)
@@ -74,11 +78,29 @@ SEM-III/
 │   │   └── PPT_DYP/               # Lecture presentation slides (DY Patil)
 │   └── QB_OS/                     # SPPU 2024 question banks in tabular format
 ├── QUESTION_PAPERS/               # S.E. 2024 Pattern semester examination question papers
-└── UHV/                           # Universal Human Values & Professional Ethics
-    ├── NOTES_UHV/                 # Unit 1 & 2 theory notes
-    ├── UHV_PPR/                   # Model question papers
-    └── UHV_QB/                    # Unit III & IV assignments
+├── UHV/                           # Universal Human Values & Professional Ethics
+│   ├── NOTES_UHV/                 # Unit 1 & 2 theory notes
+│   ├── UHV_PPR/                   # Model question papers
+│   └── UHV_QB/                    # Unit III & IV assignments
+└── WordFormat/                    # 📄 Complete mirror of all resources in editable .DOCX format
+    ├── DLED/
+    ├── DM/
+    ├── DS/
+    ├── OOPS/
+    ├── OS/
+    ├── QUESTION_PAPERS/
+    └── UHV/
 ```
+
+---
+
+## 📝 WordFormat Directory (Editable Versions)
+
+For students and teachers who need to edit, copy questions, or adapt notes for assignments and reports, all PDF resources in this repository have been converted into `.docx` format inside [`WordFormat/`](./WordFormat):
+
+- **100% Mirroring**: Mirrors the exact hierarchy, folders, and naming conventions of the main repository.
+- **Editable Notes & Question Banks**: Easily extract questions, add your own notes, or modify diagrams and tables.
+- **Includes All Subjects**: Contains Word versions for **DS**, **OS**, **OOPS**, **DLED**, **DM**, **UHV**, and **QUESTION_PAPERS**.
 
 ---
 
@@ -145,10 +167,12 @@ SEM-III/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AtharvBorkar/SEM-III.git
+   git clone https://github.com/<AtharvBorkar>/SEM-III.git
    cd SEM-III
    ```
-2. **Find Your Subject:** Navigate to the folder corresponding to your target subject (e.g., `cd DS` or `cd OS`).
+2. **Choose Your Desired Format:**
+   - For fast reading/printing: Use the **PDFs** in each subject directory.
+   - For editing/customizing: Navigate to the corresponding subfolder inside [`WordFormat/`](./WordFormat).
 3. **Exam Preparation:**
    - Review theory using the `NOTES_*` directories.
    - Test your understanding using the `QB_*` folders.
