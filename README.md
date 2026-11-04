@@ -1,6 +1,6 @@
 # 🎓 SPPU Second Year (SE) Computer Engineering - Semester III Study Repository
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name?style=for-the-badge&logo=github)](https://github.com/AtharvBorkar/SEM-III.git)
 [![SPPU 2024 Pattern](https://img.shields.io/badge/SPPU-2024%20Pattern-blue?style=for-the-badge)](http://unipune.ac.in/)
 [![Engineering Resources](https://img.shields.io/badge/Semester-III-orange?style=for-the-badge)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#contributing)
@@ -145,7 +145,7 @@ SEM-III/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/SEM-III.git
+   git clone https://github.com/AtharvBorkar/SEM-III.git
    cd SEM-III
    ```
 2. **Find Your Subject:** Navigate to the folder corresponding to your target subject (e.g., `cd DS` or `cd OS`).
