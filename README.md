@@ -167,7 +167,7 @@ For students and teachers who need to edit, copy questions, or adapt notes for a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<AtharvBorkar>/SEM-III.git
+   git clone https://github.com/AtharvBorkar/SEM-III.git
    cd SEM-III
    ```
 2. **Choose Your Desired Format:**
